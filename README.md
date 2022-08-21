@@ -38,7 +38,7 @@ Each folder consists of several files, which are explained as follows:
       _ori: means original sound
       _den: means denoised sound
 
-##Methodology
+## Methodology
 ![image](https://user-images.githubusercontent.com/73087167/185805547-b7f6c797-d257-45bb-b596-1bb6b028aeeb.png)
 
 ## Sample data (sound signals)
