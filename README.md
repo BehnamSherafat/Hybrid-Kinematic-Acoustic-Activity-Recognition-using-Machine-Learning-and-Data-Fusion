@@ -37,3 +37,16 @@ Each folder consists of several files, which are explained as follows:
     Two .WAV files (equipment sound collected on the job site using a microphone)
       _ori: means original sound
       _den: means denoised sound
+
+##Methodology
+![image](https://user-images.githubusercontent.com/73087167/185805547-b7f6c797-d257-45bb-b596-1bb6b028aeeb.png)
+
+## Sample data (sound signals)
+![image](https://user-images.githubusercontent.com/73087167/185805572-b3380470-7e43-4042-ba23-401d36bf1ee3.png)
+
+## Principal Component Analysis
+![image](https://user-images.githubusercontent.com/73087167/185805597-fcba0bc7-1430-4463-93ef-aa6ee023006b.png)
+
+## Confusion Matrix
+![image](https://user-images.githubusercontent.com/73087167/185805610-a832b48c-e0e0-420c-a9ab-31eb1696c2dd.png)
+
