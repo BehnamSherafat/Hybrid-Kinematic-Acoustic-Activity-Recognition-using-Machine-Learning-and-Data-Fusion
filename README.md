@@ -1,4 +1,6 @@
 # HybridKinematicAcousticActivityRecognition
+Please cite this paper if you used the codes or dataset:
+Sherafat, B., Rashidi, A., Lee, Y.C. and Ahn, C.R., 2019. A hybrid kinematic-acoustic system for automated activity detection of construction equipment. Sensors, 19(19), p.4286.
 ## Keywords
 1. Supervised machine learning algorithm
 2. Classification
